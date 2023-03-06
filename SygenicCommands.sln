@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33417.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SygenicCommandsLib", "SygenicCommandsLib\SygenicCommandsLib.csproj", "{5CA77B4E-0634-48F3-A7D4-177F777097E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XCheck", "XCheck\XCheck.csproj", "{8DF22ADA-8AAC-4EA4-89EA-95F1CD2ECDFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5CA77B4E-0634-48F3-A7D4-177F777097E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CA77B4E-0634-48F3-A7D4-177F777097E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CA77B4E-0634-48F3-A7D4-177F777097E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CA77B4E-0634-48F3-A7D4-177F777097E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DF22ADA-8AAC-4EA4-89EA-95F1CD2ECDFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DF22ADA-8AAC-4EA4-89EA-95F1CD2ECDFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DF22ADA-8AAC-4EA4-89EA-95F1CD2ECDFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DF22ADA-8AAC-4EA4-89EA-95F1CD2ECDFE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5C17421A-DA68-4C47-8FB4-B3E2F1FB5942}
+	EndGlobalSection
+EndGlobal
