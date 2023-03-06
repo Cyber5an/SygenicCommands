@@ -1,4 +1,4 @@
-﻿namespace SygenicCommandsLib;
+﻿namespace SygenicCommands;
 
 /// <summary>
 /// Registered as Singleton in SygenicCommandsLib.Extensions.TryAddSygenicCommands

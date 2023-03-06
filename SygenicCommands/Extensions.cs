@@ -1,4 +1,4 @@
-﻿namespace SygenicCommandsLib;
+﻿namespace SygenicCommands;
 
 public static class Extensions
 {

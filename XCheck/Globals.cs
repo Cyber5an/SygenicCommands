@@ -1,5 +1,6 @@
 global using Microsoft.Extensions.DependencyInjection;
-global using SygenicCommandsLib;
+
+global using SygenicCommands;
 
 global using XCheck;
 

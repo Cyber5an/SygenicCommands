@@ -1,4 +1,4 @@
-﻿namespace SygenicCommandsLib;
+﻿namespace SygenicCommands;
 
 [Serializable]
 internal class CmdNotRegisteredException : Exception

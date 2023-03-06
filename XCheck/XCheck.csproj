@@ -23,7 +23,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\SygenicCommandsLib\SygenicCommandsLib.csproj" />
+    <ProjectReference Include="..\SygenicCommands\SygenicCommands.csproj" />
   </ItemGroup>
 
 </Project>

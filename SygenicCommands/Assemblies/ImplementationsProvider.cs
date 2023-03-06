@@ -1,4 +1,4 @@
-﻿namespace SygenicCommandsLib;
+﻿namespace SygenicCommands;
 
 internal sealed class ImplementationsProvider : IImplementationsProvider
 {

@@ -1,4 +1,4 @@
-﻿namespace SygenicCommandsLib;
+﻿namespace SygenicCommands;
 
 internal sealed class CmdRegistry : ICmdRegistry
 {
@@ -47,7 +47,7 @@ internal sealed class CmdRegistry : ICmdRegistry
 
 	public ICmd GetCmd(string name)
 	{
-		if (serviceProvider is null) throw new Exception($"Please init cmdRegistry by running {nameof(SygenicCommandsLib)}.{nameof(Extensions)}.{nameof(Extensions.UseSygenicCommands)}");
+		if (serviceProvider is null) throw new Exception($"Please init cmdRegistry by running {nameof(SygenicCommands)}.{nameof(Extensions)}.{nameof(Extensions.UseSygenicCommands)}");
 
 		if (LambdaSimpleCmds.TryGetValue(name, out var value)) return value;
 
